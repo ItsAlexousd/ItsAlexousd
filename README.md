@@ -17,10 +17,6 @@
     <img src="https://img.shields.io/badge/Dart-40C4FF.svg?style=for-the-badge&logo=dart&logoColor=white"
       alt="dart"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -32,6 +28,10 @@
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/Php-777BB3.svg?style=for-the-badge&logo=php&logoColor=white"
       alt="php"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
   </a>
 </p>
 
@@ -112,6 +112,29 @@
   </a>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
+</p>
+
+<h3 align="center">OS</h3>
+<p align="center">
+  <a href="https://www.apple.com/macos" target="_blank">
+    <img src="https://img.shields.io/badge/macos-000000.svg?style=for-the-badge&logo=macos&logoColor=white" alt="macos" />
+  </a>
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img src="https://img.shields.io/badge/windows-00A4EF.svg?style=for-the-badge&logo=windows&logoColor=white"
+      alt="windows"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/linux-yellow.svg?style=for-the-badge&logo=linux&logoColor=white"
+      alt="linux"/>
+  </a>
+  <a href="https://www.apple.com/ios" target="_blank">
+    <img src="https://img.shields.io/badge/ios-000000.svg?style=for-the-badge&logo=ios&logoColor=white"
+      alt="ios"/>
+  </a>
+  <a href="https://www.android.com/" target="_blank">
+    <img src="https://img.shields.io/badge/android-9FC037.svg?style=for-the-badge&logo=android&logoColor=white"
+      alt="android"/>
   </a>
 </p>
 
