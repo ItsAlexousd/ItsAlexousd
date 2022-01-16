@@ -58,7 +58,7 @@
   </a>
 </p>
 
-<h3 align="center">Bases de données</h3>
+<h3 align="center">Bases de données & Hébérgement Cloud</h3>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"
@@ -68,10 +68,6 @@
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
   </a>
-</p>
-
-<h3 align="center">Cloud & Hébérgement</h3>
-<p align="center">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
