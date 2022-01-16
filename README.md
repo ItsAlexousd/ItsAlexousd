@@ -4,6 +4,7 @@
 
 <h1 align="center">Bonjour, je suis Alexis Dalle <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Un développeur full stack passionné et un étudiant à Laval.</h3>
+<p>J'aime coder, concevoir, innover et expérimenter. Je suis une personne enthousiaste et sociale qui aime relever de nouveaux défis et apprendre de nouvelles compétences. J'aime rencontrer de nouvelles personnes, échanger des idées et diffuser des connaissances et de la positivité.</p>
 
 ---
 
