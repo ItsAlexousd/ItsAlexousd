@@ -77,11 +77,17 @@
   </a>
 </p>
 
-<h3 align="center">Tests</h3>
+<h3 align="center">Design</h3>
 <p align="center"> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
-  </a> 
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/figma-C7B9FF.svg?style=for-the-badge&logo=figma&logoColor=black" alt="figma" /> 
+  </a>
+  <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank">
+    <img src="https://img.shields.io/badge/adobe%20photoshop-2FA3F7.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="photoshop" /> 
+  </a>
+  <a href="https://www.adobe.com/fr/products/illustrator.html" target="_blank">
+    <img src="https://img.shields.io/badge/adobe%20illustrator-F79500.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="illustrator" /> 
+  </a>
 </p>
 
 <h3 align="center">Contrôle de version & CI/CD</h3>
