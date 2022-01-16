@@ -4,11 +4,7 @@
 
 <h1 align="center">Bonjour, je suis Alexis Dalle <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Un développeur full stack passionné et un étudiant à Laval.</h3>
-
 ---
-
-<h2 align="center"><u><b>Connaissances</b></u></h2>
-
 <h3 align="center">Langages</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
