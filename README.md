@@ -157,3 +157,10 @@
     </a>
   </div>
 </div>
+
+---
+
+<p align="center">
+  <img  src="https://github.com/ItsAlexousd/ItsAlexousd/blob/main/grid-snake.svg"
+    alt="snake" />
+</p>
