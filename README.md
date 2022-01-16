@@ -141,3 +141,19 @@
 </p>
 
 ----
+
+<h3 align="center">Connect with me</h3>
+
+<div style="margin-top:10px" align="center">
+  <div>
+    <a  href="https://www.linkedin.com/in/alexis-dalle/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+    <a href="https://twitter.com/ItsAlexousd" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    </a>
+    <a href="https://www.youtube.com/Itsalexousd" target="_blank">
+      <img src="https://img.shields.io/badge/youtube-FE0002.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
+    </a>
+  </div>
+</div>
