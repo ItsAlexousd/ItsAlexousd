@@ -72,6 +72,9 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.shields.io/badge/supabase-3DCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
+  </a>
 </p>
 
 <h3 align="center">Design</h3>
