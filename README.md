@@ -34,6 +34,10 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/> 
+  </a>
 </p>
 
 <h3 align="center">Frontend</h3>
