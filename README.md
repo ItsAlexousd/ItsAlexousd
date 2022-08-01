@@ -69,6 +69,10 @@
     <img src="https://img.shields.io/badge/Mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/> 
   </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgresql-31648D.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="postgresql"/> 
+  </a>
   <a href="https://redis.io" target="_blank"> 
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
