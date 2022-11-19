@@ -10,14 +10,23 @@
 
 <h3 align="center">Langages</h3>
 <p align="center">
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
   <a href="https://dart.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Dart-40C4FF.svg?style=for-the-badge&logo=dart&logoColor=white"
       alt="dart"/>
   </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> 
+  </a>
+  <br/>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -29,14 +38,6 @@
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/Php-777BB3.svg?style=for-the-badge&logo=php&logoColor=white"
       alt="php"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/> 
   </a>
 </p>
 
@@ -54,29 +55,30 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
+  </a>
+  <a href="https://spring.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
   </a>
 </p>
 
 <h3 align="center">Bases de données & Hébérgement Cloud</h3>
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"/> 
-  </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/postgresql-31648D.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mysql"/> 
   </a>
   <a href="https://redis.io" target="_blank"> 
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
   </a>
+  <br/>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
@@ -114,12 +116,12 @@
 </p>
 
 <h3 align="center">IDEs & Outils préférés</h3>
-<p align="center"> 
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
-  </a>
+<p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/> 
+  </a>
+  <a href="https://www.jetbrains.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
   <a href="https://apps.apple.com/fr/app/xcode/id497799835" target="_blank">
     <img src="https://img.shields.io/badge/xcode-388AE6.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="xcode"/> 
@@ -145,6 +147,7 @@
     <img src="https://img.shields.io/badge/linux-yellow.svg?style=for-the-badge&logo=linux&logoColor=white"
       alt="linux"/>
   </a>
+  <br/>
   <a href="https://www.apple.com/ios" target="_blank">
     <img src="https://img.shields.io/badge/ios-000000.svg?style=for-the-badge&logo=ios&logoColor=white"
       alt="ios"/>
