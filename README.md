@@ -51,6 +51,10 @@
     <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
       alt="angular"/>
   </a>
+  <a href="https://svelte.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Svelte-F74600.svg?style=for-the-badge&logo=svelte&logoColor=white"
+      alt="svelte"/>
+  </a>
 </p>
 
 <h3 align="center">Backend</h3>
