@@ -87,7 +87,7 @@
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+    <img src="https://img.shields.io/badge/firebase-2C384A.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="firebase"/>
   </a>
   <a href="https://supabase.com/" target="_blank">
     <img src="https://img.shields.io/badge/supabase-333333.svg?style=for-the-badge&logo=supabase&logoColor=3DCF8E" alt="supabase"/>
