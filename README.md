@@ -2,13 +2,23 @@
   <img style="width:70%; height:auto" src="https://i.imgur.com/iXuL1HG.png"/>
 </p>
 
-<h1 align="center">Bonjour, je suis Alexis Dalle <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">Un développeur full stack passionné et un étudiant à Laval.</h3>
-<p>J'aime coder, concevoir, innover et expérimenter. Je suis une personne enthousiaste et sociale qui aime relever de nouveaux défis et apprendre de nouvelles compétences. J'aime rencontrer de nouvelles personnes, échanger des idées et diffuser des connaissances et de la positivité.</p>
+<h1 align="center">Hey there! I'm Alexis Dalle <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+
+<strong>A passionate software engineer with a strong focus on innovation and creating impactful solutions. My expertise lies in full-stack development, and I'm particularly skilled in working with Flutter 💙 to build sleek and dynamic applications.</strong>
+
+<p>🔭 Currently, I'm exploring the realms of mobile app development and constantly challenging myself to push the boundaries of what's possible. I love diving into new technologies, experimenting with different frameworks, and finding elegant solutions to complex problems.
+
+💡 As an avid learner, I'm always on the lookout for opportunities to expand my knowledge and refine my skills. I'm currently pursuing my degree in computer engineering at ESIEA, where I'm delving into various aspects of software development and honing my expertise.
+
+🌱 When I'm not coding or studying, you can find me exploring the latest advancements in the tech industry, attending hackathons, or sharing my knowledge through blog posts and tutorials. I'm also an advocate for blockchain technology and its potential to revolutionize various sectors.
+
+🎥 As a tech enthusiast, I enjoy sharing my experiences and insights on my YouTube channel, where I create informative and engaging videos focused on software development. My goal is to inspire and empower fellow developers, especially those who are just starting their journey.
+
+📫 If you're interested in collaborating on exciting projects, discussing innovative ideas, or simply connecting with like-minded individuals, feel free to reach out to me. Let's create amazing things together!</p>
 
 ---
 
-<h3 align="center">Langages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://dart.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
@@ -68,7 +78,7 @@
   </a>
 </p>
 
-<h3 align="center">Bases de données & Cloud</h3>
+<h3 align="center">Databases & Cloud</h3>
 <p align="center">
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -107,7 +117,7 @@
   </a>
 </p>
 
-<h3 align="center">Contrôle de version & CI/CD</h3>
+<h3 align="center">Version control & CI/CD</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -122,7 +132,7 @@
   </a>
 </p>
 
-<h3 align="center">IDEs & Outils préférés</h3>
+<h3 align="center">IDEs & Tools</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/> 
@@ -167,7 +177,7 @@
 
 ----
 
-<h3 align="center">Me contacter</h3>
+<h3 align="center">Contact me</h3>
 
 <div style="margin-top:10px" align="center">
   <div>
