@@ -28,15 +28,19 @@
     <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" 
       alt="java"/> 
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/> 
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" 
+      alt="python"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
   <br/>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -70,8 +74,10 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
+    <img src="https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> 
   </a>
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> 
@@ -81,16 +87,16 @@
 <h3 align="center">Databases & Cloud</h3>
 <p align="center">
   <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
+    <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Mysql-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"/> 
+    <img src="https://img.shields.io/badge/Mysql-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mongodb-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
   </a>
   <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
+    <img src="https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
   </a>
   <br/>
   <a href="https://cloud.google.com/" target="_blank">
