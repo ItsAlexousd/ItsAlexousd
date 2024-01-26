@@ -12,8 +12,6 @@
 
 🌱 When I'm not coding or studying, you can find me exploring the latest advancements in the tech industry, attending hackathons, or sharing my knowledge through blog posts and tutorials. I'm also an advocate for blockchain technology and its potential to revolutionize various sectors.
 
-🎥 As a tech enthusiast, I enjoy sharing my experiences and insights on my YouTube channel, where I create informative and engaging videos focused on software development. My goal is to inspire and empower fellow developers, especially those who are just starting their journey.
-
 📫 If you're interested in collaborating on exciting projects, discussing innovative ideas, or simply connecting with like-minded individuals, feel free to reach out to me. Let's create amazing things together!</p>
 
 ---
