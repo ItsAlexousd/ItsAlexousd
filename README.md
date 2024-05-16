@@ -160,6 +160,10 @@
   <a href="https://warp.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/warp-181818.svg?style=for-the-badge&logo=warp&logoColor=00DBDA" alt="warp"/>
   </a>
+  <br/>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/docker-1C63ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  </a>
 </p>
 
 <h3 align="center">OS</h3>
