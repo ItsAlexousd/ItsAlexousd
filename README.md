@@ -157,6 +157,9 @@
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
+  <a href="https://warp.dev" target="_blank"> 
+    <img src="https://img.shields.io/badge/warp-181818.svg?style=for-the-badge&logo=warp&logoColor=00DBDA" alt="warp"/>
+  </a>
 </p>
 
 <h3 align="center">OS</h3>
