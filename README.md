@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> 
   </a>
   <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> 
+    <img src="https://img.shields.io/badge/Express-404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="express"/> 
   </a>
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> 
