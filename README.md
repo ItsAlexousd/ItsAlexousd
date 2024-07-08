@@ -71,6 +71,9 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
+  <a href="https://nestjs.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/>
+  </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> 
   </a>
@@ -131,8 +134,10 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://gitlab.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="gitlab"/>
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/docker-1C63ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
   </a>
 </p>
 
@@ -159,10 +164,6 @@
   </a>
   <a href="https://warp.dev" target="_blank"> 
     <img src="https://img.shields.io/badge/warp-181818.svg?style=for-the-badge&logo=warp&logoColor=00DBDA" alt="warp"/>
-  </a>
-  <br/>
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/docker-1C63ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
   </a>
 </p>
 
