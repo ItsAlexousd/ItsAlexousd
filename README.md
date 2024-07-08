@@ -19,53 +19,42 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://dart.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
-      alt="dart"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" 
-      alt="java"/> 
+    <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> 
   </a>
   <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" 
-      alt="python"/> 
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
   </a>
   <br/>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/> 
+    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
+    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
+    <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   </a>
   <a href="https://www.php.net/" target="_blank">
-    <img src="https://img.shields.io/badge/Php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
-      alt="php"/>
+    <img src="https://img.shields.io/badge/Php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
   </a>
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-1EBBFD.svg?style=for-the-badge&logo=flutter&logoColor=white"
-      alt="flutter"/>
+    <img src="https://img.shields.io/badge/Flutter-1EBBFD.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
   </a>
   <a href="https://svelte.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Svelte-4A4A55.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00"
-      alt="svelte"/>
+    <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="svelte"/>
   </a>
   <a href="https://angular.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"
-      alt="angular"/>
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/>
   </a>
 </p>
 
@@ -76,6 +65,9 @@
   </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-43853D.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> 
+  </a>
+  <a href="https://deno.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="deno"/> 
   </a>
   <a href="https://expressjs.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Express-404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="express"/> 
@@ -88,7 +80,7 @@
 <h3 align="center">Databases & Cloud</h3>
 <p align="center">
   <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Mysql-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
@@ -97,7 +89,7 @@
     <img src="https://img.shields.io/badge/mongodb-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
   </a>
   <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
   </a>
   <br/>
   <a href="https://cloud.google.com/" target="_blank">
@@ -107,14 +99,14 @@
     <img src="https://img.shields.io/badge/firebase-2C384A.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="firebase"/>
   </a>
   <a href="https://supabase.com/" target="_blank">
-    <img src="https://img.shields.io/badge/supabase-333333.svg?style=for-the-badge&logo=supabase&logoColor=3DCF8E" alt="supabase"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase"/>
   </a>
 </p>
 
 <h3 align="center">Design</h3>
 <p align="center"> 
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/figma-C7B9FF.svg?style=for-the-badge&logo=figma&logoColor=black" alt="figma" /> 
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" /> 
   </a>
   <a href="https://www.adobe.com/fr/products/photoshop.html" target="_blank">
     <img src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="photoshop" /> 
@@ -175,8 +167,8 @@
   <a href="https://www.microsoft.com/windows" target="_blank">
     <img src="https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+  <a href="https://www.debian.org" target="_blank">
+    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="debian"/>
   </a>
   <br/>
   <a href="https://www.apple.com/ios" target="_blank">
