@@ -6,7 +6,7 @@
 
 <strong>A passionate software engineer with a strong focus on innovation and creating impactful solutions. My expertise lies in full-stack development, and I'm particularly skilled in working with Flutter 💙 to build sleek and dynamic applications.</strong>
 
-<p>🔭 Currently, I'm exploring the realms of mobile app development and constantly challenging myself to push the boundaries of what's possible. I love diving into new technologies, experimenting with different frameworks, and finding elegant solutions to complex problems.
+<p>🔭 Currently, I'm exploring AI-powered applications and agentic systems, building intelligent solutions with Python and LangChain. I'm passionate about creating RAG systems and multi-agent workflows that solve complex real-world problems.
 
 💡 As an avid learner, I'm always on the lookout for opportunities to expand my knowledge and refine my skills. I'm currently pursuing my degree in computer engineering at ESIEA, where I'm delving into various aspects of software development and honing my expertise.
 
@@ -21,18 +21,18 @@
   <a href="https://dart.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>
   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> 
-  </a>
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> 
   </a>
-  <br/>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
+  </a>
+  <br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> 
@@ -60,6 +60,16 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-1d3d3c.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+  </a>
+  <a href="https://www.langchain.com/langgraph" target="_blank">
+    <img src="https://img.shields.io/badge/LangGraph-053C5A.svg?style=for-the-badge&logo=langgraph&logoColor=white" alt="langgraph"/>
+  </a>
+  <br/>
   <a href="https://nestjs.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs"/>
   </a>
